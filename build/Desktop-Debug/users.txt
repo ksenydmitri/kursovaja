@@ -1,0 +1,8 @@
+qwerty,12345678,C:/Users/kseni/OneDrive/Изображения/кристиан бейл  копия.jpg,default_background.jpg,4,5,2024-12-02T23:43:49
+йцукен,12345678,C:/Users/kseni/qt progects/kurs/build/Desktop-Debug/back1.jpg,default_background.jpg,0,5,2024-12-02T23:42:49
+фывап,12345678,default_avatar.jpg,default_background.jpg,0,5,2024-12-02T23:37:54
+
+
+/////////git remote add origin https://github.com/ksenydmitri/kursovaja.git
+git branch -M main
+git push -u origin main
